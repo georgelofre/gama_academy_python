@@ -1,0 +1,6 @@
+int1 = int(input('Digite um número inteiro: '))
+int2 = int(input('Digite um outro número inteiro: '))
+real = float(input('Digite um número real: '))
+print(f'o produto do dobro do primeiro com metade do segundo: {(2*int1)*(int2/2)}.')
+print(f'a soma do triplo do primeiro com o terceiro: {(3*int1)+real}.')
+print(f'o terceiro elevado ao cubo: {real**3}.')
